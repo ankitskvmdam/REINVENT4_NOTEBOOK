@@ -1,0 +1,11 @@
+{
+    "run_type": "sampling",
+    "parameters": {
+        "model_file": "D:\\projects\\github\\REINVENT4_NOTEBOOKS\\priors/reinvent.prior",
+        "unique_molecules": true,
+        "randomize_smiles": true,
+        "num_smiles": 100,
+        "output_file": "D:\\projects\\github\\REINVENT4_NOTEBOOKS\\out/sampling\\cuda_sampling_100.csv"
+    },
+    "use_cuda": true
+}

@@ -1,0 +1,15 @@
+{
+    "run_type": "sampling",
+    "parameters": {
+        "model_file": "/mnt/d/projects/github/REINVENT4_NOTEBOOKS/priors/mol2mol_medium_similarity.prior",
+        "unique_molecules": true,
+        "randomize_smiles": true,
+        "num_smiles": 100,
+        "output_file": "/mnt/d/projects/github/REINVENT4_NOTEBOOKS/out/sampling/cpu_sampling_similar_100.csv",
+        "smiles_file": "/mnt/d/projects/github/REINVENT4_NOTEBOOKS/configs/toml/mol2mol.smi",
+        "sample_strategy": "beamsearch",
+        "temperature": 1.0,
+        "tb_logdir": "tb_logs"
+    },
+    "use_cuda": false
+}
