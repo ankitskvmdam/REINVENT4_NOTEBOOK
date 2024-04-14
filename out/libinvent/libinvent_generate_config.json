@@ -5,8 +5,8 @@
         "unique_molecules": true,
         "randomize_smiles": true,
         "smiles_file": "D:\\projects\\github\\REINVENT4_NOTEBOOKS\\out/libinvent\\libinvent_input.csv",
-        "num_smiles": 150,
-        "output_file": "D:\\projects\\github\\REINVENT4_NOTEBOOKS\\out/libinvent\\libinvent_150.csv"
+        "num_smiles": 4,
+        "output_file": "D:\\projects\\github\\REINVENT4_NOTEBOOKS\\out/libinvent\\libinvent_4.csv"
     },
     "use_cuda": true
 }
