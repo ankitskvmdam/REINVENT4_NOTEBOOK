@@ -1,0 +1,11 @@
+{
+    "run_type": "sampling",
+    "use_cuda": false,
+    "parameters": {
+        "model_file": "D:\\projects\\github\\REINVENT4_NOTEBOOKS\\priors/libinvent.prior",
+        "unique_molecules": true,
+        "randomize_smiles": true,
+        "num_smiles": "5",
+        "output_file": "D:\\projects\\github\\REINVENT4_NOTEBOOKS\\out/libinvent\\libinvent_5.csv"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "run_type": "sampling",
+    "parameters": {
+        "model_file": "D:\\projects\\github\\REINVENT4_NOTEBOOKS\\priors/linkinvent.prior",
+        "unique_molecules": true,
+        "randomize_smiles": true,
+        "smiles_file": "D:\\projects\\github\\REINVENT4_NOTEBOOKS\\out/linkinvent\\link_invent_input.csv",
+        "num_smiles": 500,
+        "output_file": "D:\\projects\\github\\REINVENT4_NOTEBOOKS\\out/linkinvent\\linkinvent_500.csv"
+    },
+    "use_cuda": false
+}
